@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    Max-width: 30rem;
+    margin: 0;
+    padding: 0;
+    background-color: #fafbed;
+}
+
+img {
+    width: 50%;
+    margin-left: 25%;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    width: 90%;
+    margin-left: 5%;
+    padding: 0.5rem 0;
+    background-color: #9cc50c;
+    font-size: 1rem;
+    color: white;
+    border: 2px solid grey;
+    border-radius: 10px;
+}
+
+hr {
+    width: 95%;
+    margin-left: 2.5%;
+    margin-top: 3rem;
+}
+
+footer {
+    text-align: center;
+}
+
+.icon .fa{
+    font-size: 1.5rem;
+    color: #688407;
+    width: 3rem;
+    height: auto;
+}
+
+.list{
+    background:white;
+    width: 80%;
+    margin-left: 10%;
+}
+
+.list ul{
+    text-align: center;
+    list-style: none;
+    padding-left: 0;
+}
+
+.list ul li{
+    border: 2px solid #fafbed;
+    padding: 0.5rem 0;
+}
